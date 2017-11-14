@@ -321,8 +321,9 @@ alias gotosite="cd ~/more-space/default-repo/LinXueyuanStdio.github.io/"
 alias runsite="gotosite && bundle exec jekyll serve"
 
 alias newtemp="git clone git@github.com:LinXueyuanStdio/CodeFilesTemplate.git"
-alias pycharm="~/more-space/pycharm/bin/pycharm.sh"
-alias gogland="~/more-space/Gogland/bin/gogland.sh"
+alias idepy="~/more-space/IDE/pycharm/bin/pycharm.sh"
+alias idego="~/more-space/IDE/GoLand/bin/goland.sh"
+alias ideas="~/android_develop_tools/android-studio/bin/studio.sh"
 
 alias sshjp3="ssh linxueyuan@jp3.xyh.io"
 
