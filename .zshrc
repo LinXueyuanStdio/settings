@@ -309,6 +309,8 @@ alias usezrc="source ~/.zshrc"
 
 alias usePy35="source ~/more-space/pyworks/venv/bin/activate"
 
+alias swapto="~/more-space/xyh/onwork/exchange/"
+
 alias gotomore="cd ~/more-space/"
 alias gotoexchange="cd ~/more-space/exchange/"
 alias gotorepo="cd ~/more-space/default-repo/"
