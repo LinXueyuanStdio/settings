@@ -289,7 +289,8 @@ export MANPATH="/usr/local/man:/usr/local/texlive/2017/texmf-dist/doc:$MANPATH"
 export EDITOR='vim'
 
 export PATH=$HOME/bin:/usr/local/bin:/usr/local/texlive/2017/bin/x86_64-linux:/home/dlinking-lxy/.local/bin:$PATH
-export INFOPATH="/usr/local/texlive/2017/texmf-dist/doc/info/"
+export INFOPATH="/usr/local/texlive/2017/texmf-dist/doc/info"
+export MANPATH="/usr/local/texlive/2017/texmf-dist/doc/man"
 
 export ZSH=$HOME/.oh-my-zsh
 source $ZSH/oh-my-zsh.sh
@@ -322,10 +323,16 @@ alias runnote="usePy35 && jupyter notebook"
 alias gotosite="cd ~/more-space/default-repo/LinXueyuanStdio.github.io/"
 alias runsite="gotosite && bundle exec jekyll serve"
 
+alias gotoeth="cd ~/more-space/blockchain/"
+alias rungeth='gotoeth && geth --identity "MyTestNet" --rpc --rpccorsdomain "*" --datadir "./.ethereum" --port 8888 --rpcapi "personal,db,eth,net,web3,miner" --networkid 88888 console'
+alias runwallet="ethereumwallet --gethpath /usr/bin/geth"
+
+alias rundir="nautilus"
+
 alias newtemp="git clone git@github.com:LinXueyuanStdio/CodeFilesTemplate.git"
 alias idepy="~/more-space/IDE/pycharm/bin/pycharm.sh"
 alias idego="~/more-space/IDE/GoLand/bin/goland.sh"
-alias ideas="~/android_develop_tools/android-studio/bin/studio.sh"
+alias ideas="~/more-space/IDE/android-studio/bin/studio.sh"
 
 alias sshjp3="ssh linxueyuan@jp3.xyh.io"
 

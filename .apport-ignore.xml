@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<apport>
+  <ignore mtime="1461160474" program="/usr/bin/gnome-software"/>
+  <ignore mtime="1460586476" program="/usr/bin/unity-control-center"/>
+</apport>

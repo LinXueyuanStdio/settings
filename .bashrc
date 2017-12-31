@@ -128,6 +128,12 @@ export GOROOT=/usr/local/go
 export GOPATH=$HOME/more-space/xyh/linxueyuan/go:$HOME/go
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin:/home/dlinking-lxy/more-space/xyh/linxueyuan/go/bin
 
+
+export PATH=${PATH}:/usr/local/texlive/2017/bin/x86_64-linux
+export MANPATH=${MANPATH}:/usr/local/texlive/2017/texmf-dist/doc/man
+export INFOPATH=${INFOPATH}:/usr/local/texlive/2017/texmf-dist/doc/info
+
+
 export all_proxy=socks5://127.0.0.1:1080/
 export socks_proxy=socks5://127.0.0.1:1080/
 
