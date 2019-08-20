@@ -1,0 +1,13 @@
+
+export TERM="xterm-256color"
+export LANG="en_US.UTF-8"
+
+export GOROOT=/usr/local/go
+export GOPATH=$HOME/more-space/xyh/linxueyuan/go:$HOME/go
+
+export PATH=$PATH:$GOROOT/bin:$GOPATH/bin:/home/dlinking-lxy/more-space/xyh/linxueyuan/go/bin
+export PATH=$PATH:$HOME/.android-sdk-macosx/platform-tools
+
+
+export ANDROID_HOME="/Users/zby/Library/Android/sdk"
+export SSH_KEY_PATH="~/.ssh/rsa_id"
