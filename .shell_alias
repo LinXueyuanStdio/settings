@@ -1,0 +1,44 @@
+
+# =============================================================================
+#                                     alias
+# =============================================================================
+eval "$(thefuck --alias fuck)"
+alias zshconfig="mate ~/.zshrc"
+alias ohmyzsh="mate ~/.oh-my-zsh"
+alias systemInfo="neofetch block_range 1 8 line_wrap off bold off uptime_shorthand on gtk_shorthand on colors 4 1 8 8 8 7"
+
+alias rerc="vim ~/.bashrc"
+alias userc="source ~/.bashrc"
+alias rezrc="vim ~/.zshrc"
+alias usezrc="source ~/.zshrc"
+
+alias usePy35="source ~/more-space/pyworks/venv/bin/activate"
+
+alias swapto="~/more-space/xyh/onwork/exchange/"
+
+alias gotomore="cd ~/more-space/"
+alias gotoexchange="cd ~/more-space/exchange/"
+alias gotorepo="cd ~/more-space/default-repo/"
+
+alias gotospider="cd ~/more-space/xyh/linxueyuan/go/src/xyh/spider"
+alias runspider="gotospider && ./spider -o /home/dlinking-lxy/more-space/xyh/onwork/output"
+alias gotonote="cd ~/more-space/default-repo/notes"
+alias runnote="usePy35 && jupyter notebook"
+alias gotosite="cd ~/more-space/default-repo/LinXueyuanStdio.github.io/"
+alias runsite="gotosite && bundle exec jekyll serve"
+
+alias gotoeth="cd ~/more-space/blockchain/"
+alias rungeth='gotoeth && geth --identity "MyTestNet" --rpc --rpccorsdomain "*" --datadir "./.ethereum" --port 8888 --rpcapi "personal,db,eth,net,web3,miner" --networkid 88888 console'
+alias runwallet="ethereumwallet --gethpath /usr/bin/geth"
+
+alias rundir="nautilus"
+
+alias newtemp="git clone git@github.com:LinXueyuanStdio/CodeFilesTemplate.git"
+alias idepy="~/more-space/IDE/pycharm/bin/pycharm.sh"
+alias idego="~/more-space/IDE/GoLand/bin/goland.sh"
+alias ideas="~/more-space/IDE/android-studio/bin/studio.sh"
+
+alias sshjp3="ssh linxueyuan@jp3.xyh.io"
+
+alias intargz="sudo tar -xzf "
+alias indeb="sudo dpkg -i "

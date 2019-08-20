@@ -29,5 +29,10 @@ copy all text in `~/.ssh/id_rsa.pub` to https://github.com/settings/keys.
 click `new ssh key` and go.
 ```
 $ ssh -T git@github.com
-Hi xxx! You’ve successfully authenticated, but GitHub does not provide shell access. 
+Hi xxx! You’ve successfully authenticated, but GitHub does not provide shell access.
 ```
+
+## 安装顺序
+
+sudo apt update
+suda apt install curl zsh git nodejs npm autojump thefuck
