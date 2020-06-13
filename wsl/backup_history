@@ -1,0 +1,818 @@
+
+: 1566310060:0;mkdir ~/.npm-global
+: 1566310061:0;npm config set prefix '~/.npm-global'
+: 1566310062:0;export PATH=~/.npm-global/bin:$PATH
+: 1566310062:0;export NPM_CONFIG_PREFIX=~/.npm-global
+: 1566310070:0;source ~/.profile
+: 1566310082:0;sudo apt install nodejs
+: 1566310400:0;sudo apt-get --upgrade install nodejs
+: 1566310433:0;sudo apt update
+: 1566311353:0;apt list --upgradable
+: 1566311387:0;sudo apt install nodejs
+: 1566311709:0;pip install tensorflow
+: 1566311731:0;sudo apt install python3-pip
+: 1566311758:0;sudo apt install python-pip
+: 1566312434:0;pip install -r requirements.txt
+: 1566312456:0;sudo apt install python3-pip
+: 1566312941:0;pip3 install -r requirements.txt
+: 1566313723:0;curl -L "https://raw.githubusercontent.com/pyenv/pyenv-installer/master/bin/pyenv-installer" | bash
+: 1566866833:0;ls
+: 1566866838:0;pwd
+: 1566866861:0;zsh
+: 1566867107:0;ssh yanglab@219.135.135.229
+: 1576670696:0;curl http://59.38.32.149/yjszwcxJsp.action
+: 1576670702:0;exit
+: 1576670712:0;curl
+: 1576670716:0;wget
+: 1576670722:0;wget http://59.38.32.149/yjszwcxJsp.action
+: 1576671829:0;ping 59.38.32.149
+: 1576722813:0;wget http://59.38.32.149/yjszwcxJsp.action
+: 1579140334:0;C:/Users/lxy/app/py36/python.exe -m pip install -U autopep8 --user
+: 1579140576:0;ls
+: 1579140582:0;python sudoku.py
+: 1579141535:0;python3 sudoku.py
+: 1579162220:0;ls
+: 1579162223:0;cd sudoku
+: 1579162224:0;ls
+: 1579162229:0;javac SudokuPGM.java
+: 1579162272:0;which java
+: 1579162277:0;export
+: 1579162572:0;sudo apt install java
+: 1579162635:0;which jre
+: 1579162848:0;cd /usr
+: 1579162849:0;ls
+: 1579162855:0;cd bin
+: 1579162857:0;ls
+: 1579162878:0;cd ..
+: 1579162879:0;ls
+: 1579162883:0;cd local
+: 1579162884:0;ls
+: 1579162894:0;cd bin
+: 1579162895:0;ls
+: 1579162898:0;ranger
+: 1579162906:0;ls
+: 1579162911:0;cd ..
+: 1579162915:0;cd etc
+: 1579162916:0;ls
+: 1579162953:0;ls /home
+: 1579162957:0;ls /home/lxy
+: 1579162984:0;ls
+: 1579162996:0;cp jre-8u241-linux-i586.tar.gz /usr/etc
+: 1579163009:0;cp jre-8u241-linux-i586.tar.gz /home/lxy
+: 1579163012:0;cd ~
+: 1579163013:0;ls
+: 1579163035:0;tar zxvf jre-8u241-linux-i586.tar.gz
+: 1579163042:0;ls
+: 1579163045:0;cd jre1.8.0_241
+: 1579163046:0;ls
+: 1579163051:0;ls bin
+: 1579163108:0;export
+: 1579163113:0;$PATH
+: 1579163153:0;export PATH=$PATH:/home/lxy/jre1.8.0_241/bin
+: 1579163155:0;$PATH
+: 1579163160:0;java
+: 1579163172:0;ls
+: 1579163179:0;javac
+: 1579163190:0;ls bin
+: 1579163349:0;cd bin
+: 1579163353:0;java --version
+: 1579163357:0;java -v
+: 1579163370:0;cd ..
+: 1579163371:0;ls
+: 1579163379:0;cat THIRDPARTYLICENSEREADME
+: 1579163383:0;cat RE
+: 1579163386:0;cat README
+: 1579163408:0;cd ..
+: 1579163409:0;ls
+: 1579163443:0;sudo apt-get install openjdk-7-jdk
+: 1579163457:0;apt-cache search java|grep jdk
+: 1579163478:0;sudo apt-get install openjdk-8-jdk
+: 1579163512:0;sudo apt-get update
+: 1579163524:0;sudo apt-get install openjdk-8-jdk
+: 1579163626:0;cd sudoku/
+: 1579163626:0;ls
+: 1579163633:0;javac SudokuPGM.java
+: 1579163646:0;java SudokuPGM
+: 1579163651:0;java SudokuPGM.class
+: 1579163689:0;java SudokuPGM
+: 1579163758:0;java sudoku.SudokuPGM
+: 1579163867:0;java -classpath .. SudokuPGM
+: 1579163897:0;javac SudokuPGM.java
+: 1579163901:0;java SudokuPGM
+: 1579164518:0;javac SudokuPGM.java
+: 1579164521:0;java SudokuPGM
+: 1579164567:0;javac SudokuPGM.java && java SudokuPGM
+: 1579167632:0;ls
+: 1579167641:0;pip install java2python
+: 1579167907:0;wget http://www.antlr3.org/download/antlr-3.1.3.tar.gz
+: 1579168746:0;tar xfz antlr-3.1.3.tar.gz
+: 1579168753:0;cd antlr-3.1.3/runtime/Python/
+: 1579168761:0;python setup.py install
+: 1579168949:0;sudo python setup.py install
+: 1579168959:0;pip install java2python
+: 1579168988:0;wget https://github.com/downloads/natural/java2python/java2python-0.5.1.tar.gz
+: 1579169005:0;tar xfz java2python-0.5.1.tar.gz
+: 1579169011:0;cd java2python
+: 1579169018:0;ls
+: 1579169028:0;cd java2python-0.5.1
+: 1579169036:0;sudo python setup.py install
+: 1579169049:0;cd sudoku
+: 1579169050:0;ls
+: 1579169069:0;j2py SudokuPGM.java
+: 1579172307:0;j2py SudokuPGM.java > a.py
+: 1579173152:0;cd ..
+: 1579173159:0;python3 PGM
+: 1579173161:0;python3 PGM.py
+: 1579174477:0;python3
+: 1579174809:0;python3 PGM.py
+: 1579178515:0;python3 t.py
+: 1579178903:0;python3 PGM.py
+: 1579221228:0;ls
+: 1579221235:0;python3 sudoku.py
+: 1579221496:0;ls
+: 1579221505:0;cd sudoku
+: 1579221507:0;ls
+: 1579221515:0;rm -rf antlr-3.1.3
+: 1579221517:0;ls
+: 1579228076:0;jupyter notebook
+: 1579228079:0;jupyter-notebook
+: 1579228084:0;jupyter
+: 1579228086:0;notebook
+: 1579228095:0;pip3 install notebook
+: 1579228842:0;jupyter-notebook
+: 1579228846:0;notebook
+: 1579228993:0;jupyter
+: 1579229043:0;pip3 install jupyter
+: 1579229467:0;jupyterv notebook
+: 1579229470:0;jupyter notebook
+: 1579229497:0;bash
+: 1579229907:0;pip3 install jupyter_contrib_nbextensions
+: 1579231793:0;ls
+: 1579231799:0;python3 PGM.py
+: 1579233106:0;ls
+: 1579233108:0;cd sudoku
+: 1579233114:0;java SudokuPGM
+: 1579233139:0;javac SudokuPGM.java
+: 1579233141:0;java SudokuPGM
+: 1579233211:0;javac SudokuPGM.java
+: 1579233213:0;java SudokuPGM
+: 1579233402:0;python3 PGM.py
+: 1579238500:0;python3 trans.py
+: 1579238764:0;python3 t.py
+: 1579240007:0;python3 trans2.py
+: 1579240414:0;python3 trans.py
+: 1579240639:0;python3 trans2.py
+: 1579240674:0;python3 trans.py
+: 1579240687:0;python3 t.py
+: 1579245921:0;javac SudokuPGM.java
+: 1579245923:0;python3 t.py
+: 1579245934:0;java SudokuPGM
+: 1579246093:0;python3 t.py
+: 1579246372:0;java SudokuPGM
+: 1579246377:0;python3 t.py
+: 1579256009:0;cd teacher
+: 1579256012:0;ls
+: 1579256016:0;python3 sudoku.py
+: 1579256513:0;cd ..
+: 1579256518:0;python3 trans3.py
+: 1579264751:0;python3 main.py
+: 1579317537:0;ls
+: 1579317544:0;git status
+: 1579317566:0;git push orgiin master
+: 1579317576:0;git push origin master
+: 1580358243:0;ls
+: 1580358253:0;cd thesis
+: 1580358254:0;ls
+: 1580365608:0;which latex
+: 1580374189:0;ls
+: 1580374195:0;python3 main.py
+: 1580375449:0;cls
+: 1580375451:0;clear
+: 1580375454:0;python3 main.py
+: 1580375837:0;java SudokuPGM
+: 1580375844:0;cd reference2
+: 1580375845:0;java SudokuPGM
+: 1580375942:0;javac SudokuPGM.java
+: 1580375944:0;java SudokuPGM
+: 1580376232:0;python3 main.py
+: 1580377229:0;java SudokuPGM
+: 1580377309:0;javac SudokuPGM.java
+: 1580377312:0;java SudokuPGM
+: 1580377342:0;javac SudokuPGM.java
+: 1580377344:0;java SudokuPGM
+: 1580377556:0;javac SudokuPGM.java
+: 1580377558:0;java SudokuPGM
+: 1580378701:0;javac SudokuPGM.java
+: 1580378704:0;java SudokuPGM
+: 1580381430:0;make pdf
+: 1580545288:0;C:\Users\lxy\app\py35\python.exe c:\Users\lxy\.vscode\extensions\ms-python.python-2020.1.58038\pythonFiles\lib\python\new_ptvsd\no_wheels\ptvsd\launcher c:\Users\lxy\Documents\GitHub\GraduationThesis\PGM.py
+: 1580566451:0;python3 PGM.py
+: 1580642960:0;python application.py
+: 1580642972:0;virtualenv venv
+: 1580643018:0;python3 -m venv env
+: 1580643026:0;apt-get install python3-venv
+: 1580643029:0;sudo apt-get install python3-venv
+: 1580643051:0;python3 -m venv env
+: 1580643056:0;python3 -m venv
+: 1580643061:0;python3 -m venv env
+: 1580643193:0;python3 -m venv envvirtualenv -p python3
+: 1580643196:0;virtualenv -p python3 env
+: 1580643207:0;sudo apt install virtualenv
+: 1580643217:0;virtualenv -p python3 env
+: 1580643238:0;rm -rf env
+: 1580643241:0;virtualenv -p python3 env
+: 1580643908:0;source env
+: 1580643916:0;source env/bin/activate
+: 1580643931:0;pip install -r requirements.txt
+: 1580643941:0;pip install flask
+: 1580643992:0;pip install json
+: 1580644008:0;python application.py
+: 1580644014:0;pip install pandas
+: 1580645637:0;python application.py
+: 1580646516:0;pip3 install flask
+: 1580646563:0;pip3 install django
+: 1580647682:0;python3 application.py
+: 1580717184:0;ls
+: 1580717188:0;notebook
+: 1580717194:0;jupyter notebook
+: 1580717197:0;jupyter-notebook
+: 1580717202:0;ls
+: 1580717215:0;pip3 list
+: 1580717240:0;python3 -m notebook
+: 1580717262:0;python3 -m jupyter
+: 1580717266:0;python3 -m jupyter notebook
+: 1580717270:0;python3 -m jupyter-notebook
+: 1580724275:0;which python3
+: 1580724390:0;jupyter-notebook
+: 1580724398:0;ls /
+: 1580724401:0;ranger
+: 1580724408:0;sudo apt install ranger
+: 1580724641:0;ranger
+: 1580724720:0;ls ~/
+: 1580724722:0;ls ~/ -a
+: 1580724729:0;ls ~/.local
+: 1580724733:0;ls ~/.local/bin
+: 1580724746:0;ls ~/.local/bin/jupyter notebook
+: 1580977292:0;ls
+: 1580977311:0;~/.local/bin/jupyter-notebook
+: 1580981102:0;cd latex
+: 1580981104:0;ls
+: 1580981110:0;python3 t.py
+: 1581048903:0;python3 application.py
+: 1581084988:0;npm start
+: 1581085002:0;npm install
+: 1581085012:0;cnpm install
+: 1581085046:0;npm start
+: 1581654931:0;curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+: 1581654938:0;sudo apt install curl
+: 1581654959:0;curl
+: 1581654963:0;bash
+: 1582019197:0;~/.local/bin/jupyter-notebook
+: 1582019341:0;python3 application.py
+: 1582020751:0;python3 PGM.py
+: 1583250797:0;ls
+: 1583250799:0;git clone https://github.com/Hsury/Bilibili-Toolkit.git
+: 1583250892:0;cd Bilibili-Toolkit
+: 1583250893:0;ls
+: 1583250897:0;cat config.toml
+: 1583250903:0;nano config.toml
+: 1583250946:0;pip install -r requirements.txt -U -i https://pypi.tuna.tsinghua.edu.cn/simple
+: 1583251337:0;python bilibili.py
+: 1583251342:0;python3 bilibili.py
+: 1583251352:0;pip3 install -r requirements.txt -U -i https://pypi.tuna.tsinghua.edu.cn/simple
+: 1583251365:0;python3 bilibili.py
+: 1583296135:0;pip3 install -r requirements.txt -U -i https://pypi.tuna.tsinghua.edu.cn/simple
+: 1583296172:0;python3 bilibili.py
+: 1583297986:0;C:/Users/lxy/app/py36/python.exe -m pip install -U autopep8 --user
+: 1583298353:0;pip3 install -r requirements.txt -U -i https://pypi.tuna.tsinghua.edu.cn/simple
+: 1583298361:0;python3 bilibili.py
+: 1583332980:0;cd ide-host-service
+: 1583332985:0;yarn install
+: 1583332994:0;sudo apt install yarn
+: 1583333058:0;curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+: 1583333064:0;echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+: 1583333073:0;sudo apt update && sudo apt install yarn
+: 1583333109:0;yarn install
+: 1583333140:0;node main.js
+: 1583333149:0;cd ide-online
+: 1583333153:0;yarn install
+: 1583335369:0;yarn dev
+: 1583336019:0;anpm install -g typescript
+: 1583336023:0;cnpm install -g typescript
+: 1583336039:0;cnpm install typescript
+: 1583336061:0;sudo cnpm install typescript -g
+: 1583336083:0;yarn dev
+: 1583811960:0;ls
+: 1583811966:0;cd my惼�诃�
+: 1583811967:0;ls
+: 1583811969:0;cd Data-structure-master
+: 1583811971:0;ls
+: 1583811976:0;python3 clean.py
+: 1583812125:0;mkdir cpp
+: 1583812234:0;python3 clean.py
+: 1583854053:0;python3 manager.py runserver
+: 1583854057:0;ls
+: 1583854065:0;python3 manage.py runserver
+: 1583854083:0;pip3 install haystack
+: 1583854370:0;python3 manage.py runserver
+: 1583854384:0;pip3 install mysqlclient
+: 1583854454:0;rpm -qa | grep mysql
+: 1583854568:0;sudo apt-get install mysql-server
+: 1583854648:0;systemctl status mysql.service
+: 1583854656:0;exit
+: 1583854665:0;bash
+: 1583854690:0;python3 manage.py runserver
+: 1583854703:0;pip3 install mysqlclient
+: 1583854750:0;apt-get install libmysqlclient-dev
+: 1583854756:0;sudo apt-get install libmysqlclient-dev
+: 1583854787:0;sudo apt-get install libmysqlclient
+: 1583854793:0;sudo apt-get install libssl-dev libmysqlclient-dev
+: 1583854813:0;sudo apt install libmysqlclient-dev
+: 1583854849:0;sudo apt install mysql-server mysql-client mysql-devel
+: 1583854854:0;sudo apt install mysql-server mysql-client
+: 1583854869:0;pip3 install mysqlclient
+: 1583854890:0;pip3 install pymysql
+: 1583854928:0;python3 manage.py runserver
+: 1583854941:0;pip3 install mysqlclient
+: 1583855076:0;sudo apt-get install libmysqld-dev
+: 1583855089:0;sudo apt-get install libmysqlclient-dev
+: 1583855144:0;sudo dpkg  �configure -a
+: 1583855192:0;sudo dpkg --configure -a
+: 1583855203:0;sudo apt-get install -f
+: 1583855212:0;sudo apt-get clean && sudo apt-get update
+: 1583855228:0;sudo apt-get upgrade
+: 1583855288:0;udo apt-get dist-upgrade
+: 1583855291:0;sudo apt-get dist-upgrade
+: 1583855329:0;sudo apt-get install libmysqlclient-dev
+: 1583855344:0;sudo apt-get install libssl-dev
+: 1583855374:0;sudo apt-get install libssl1.0.0
+: 1583855397:0;sudo apt-get install zlib1g-dev
+: 1583855431:0;sudo dpkg --list
+: 1583855467:0;sudo aptitude install zlib1g-dev
+: 1583855482:0;sudo apt install aptitude
+: 1583855525:0;sudo apt --list
+: 1583855530:0;sudo apt --help
+: 1583855564:0;sudo apt install aptitude
+: 1583855586:0;sudo aptitude install zlib1g-dev
+: 1583855640:0;sudo mkdir /etc/apt/preferences.d/
+: 1583855642:0;sudo aptitude install zlib1g-dev
+: 1583855664:0;python3 manage.py runserver
+: 1583855671:0;pip3 install mysqlclient
+: 1583855692:0;sudo apt-get install libssl-dev libmysqlclient-dev
+: 1583855697:0;sudo apt install libssl-dev libmysqlclient-dev
+: 1583855727:0;sudo aptitude install libmysqlclient-dev
+: 1583855757:0;sudo aptitude install apt
+: 1583855770:0;sudo apt install python
+: 1583855947:0;apt-get update
+: 1583856107:0;sudo aptitude install --fix-missing
+: 1583856139:0;sudo aptitude update
+: 1583856172:0;sudo aptitude install apt
+: 1583856188:0;sudo aptitude install --fix-missing
+: 1583856214:0;cat /etc/apt/sources.list
+: 1583856262:0;sudo apt-get install apt-transport-https
+: 1583856418:0;dpkg --print-architecture
+: 1583856516:0;cd ../../../Downloads/
+: 1583856517:0;ls
+: 1583856530:0;cd ..
+: 1583856534:0;cd Documents
+: 1583856535:0;ls
+: 1583856564:0;cd ../Downloads/Documents
+: 1583856565:0;LS
+: 1583856567:0;ls
+: 1583856581:0;dpkg --help
+: 1583856597:0;dpkg -i apt_1.0.9.8.5_amd64.deb
+: 1583856601:0;sudo dpkg -i apt_1.0.9.8.5_amd64.deb
+: 1583856657:0;sudo apt-get install apt-transport-https
+: 1583856671:0;sudo dpkg -i apt_1.0.9.8.5_amd64.deb
+: 1583856756:0;sudo apt install python
+: 1583856798:0;sudo dpkg -i libapt-pkg4.12_1.0.9.8.5_amd64.deb
+: 1583856805:0;sudo dpkg -i apt_1.0.9.8.5_amd64.deb
+: 1583856881:0;sudo dpkg -i debian-archive-keyring_2017.5_deb8u1_all.deb
+: 1583856884:0;sudo dpkg -i apt_1.0.9.8.5_amd64.deb
+: 1583857061:0;sudo dpkg -i apt_1.2.29ubuntu0.1_amd64.deb
+: 1583857072:0;sudo apt-get install apt-transport-https
+: 1583857083:0;pip3 install mysqlclient
+: 1583857101:0;sudo aptitude install libmysqlclient-dev
+: 1583857151:0;sudo apt-get install libssl-dev libmysqlclient-dev
+: 1583857165:0;sudo apt-get install zlib1g-dev
+: 1583857178:0;sudo apt-get install zlib1g
+: 1583857196:0;sudo apt-get install zlib1g-dev
+: 1583857226:0;sudo aptitude install zlib1g-dev
+: 1583857325:0;sudo aptitude install libmysqlclient-dev
+: 1583857425:0;python3 manage.py runserver
+: 1583857436:0;pip3 install mysqlclient
+: 1583857447:0;python3 manage.py runserver
+: 1583857467:0;pip3 install apscheduler
+: 1583857549:0;pin install apscheduler
+: 1583857555:0;pip3 install apscheduler
+: 1583857744:0;python3 manage.py runserver
+: 1583857757:0;pip3 install scrapy
+: 1583857985:0;pip3 install scrapy -i https://pypi.tuna.tsinghua.edu.cn/simple
+: 1583858039:0;vim ~/.pip/pip.conf
+: 1583858088:0;ls ~/
+: 1583858093:0;ls ~/.pip
+: 1583858105:0;mkdir ~/.pip
+: 1583858109:0;vim ~/.pip/pip.conf
+: 1583858129:0;python3 manage.py runserver
+: 1583858143:0;pip3 install pymongo
+: 1583858149:0;python3 manage.py runserver
+: 1583858160:0;pip3 install log
+: 1583858318:0;pip3 uninstall scrapy pip3 install scrapy==1.6
+: 1583858329:0;pip3 uninstall scrapy
+: 1583858342:0;pip3 install scrapy==1.6
+: 1583858396:0;python3 manage.py runserver
+: 1583858421:0;pip3 install haystack
+: 1583858474:0;python3 manage.py runserver
+: 1583858528:0;pip3 install django-haystack
+: 1583858566:0;python3 server/src/server.py 0.0.0.0:8899
+: 1583858602:0;cd server/src
+: 1583858613:0;python3 server.py 0.0.0.0:8899
+: 1583858634:0;python3 manage.py runserver
+: 1583858686:0;cd src
+: 1583858687:0;ls
+: 1583858703:0;pyhton3 main.py 0.0.0.0:8810
+: 1583858708:0;python3 main.py 0.0.0.0:8810
+: 1583858772:0;cd src
+: 1583858774:0;python3 main.py 0.0.0.0:8810
+: 1583858910:0;pip3 list
+: 1583858932:0;pip3 install django
+: 1583859063:0;python3 manager.py runserver 0.0.0.0:8845
+: 1583859068:0;python3 manage.py runserver 0.0.0.0:8845
+: 1583859108:0;pip3 install django=1.5
+: 1583859116:0;pip3 install django==1.5
+: 1583859247:0;python3 manage.py runserver 0.0.0.0:8845
+: 1583859289:0;pip3 install django
+: 1583859342:0;python3 manage.py runserver 0.0.0.0:8845
+: 1583859378:0;pip3 install django==1.7.1
+: 1583859501:0;python3 manage.py runserver 0.0.0.0:8845
+: 1583890907:0;pip3 install django
+: 1583891190:0;python3 manage.py runserver 0.0.0.0:8845
+: 1583891254:0;pip3 uninstall haystack
+: 1583891265:0;python3 manage.py runserver 0.0.0.0:8845
+: 1583891345:0;pip3 uninstall django-haystack
+: 1583891353:0;python3 manage.py runserver 0.0.0.0:8845
+: 1583891398:0;python3 manage.py syncdb
+: 1583891524:0;pip uninstall haystack
+: 1583891528:0;pip3 uninstall haystack
+: 1583891546:0;pip3 install django-haystack
+: 1583891625:0;python3 manage.py syncdb
+: 1583891711:0;pip3 uninstall django
+: 1583891761:0;pip3 install django==2.2
+: 1583891851:0;python3 manage.py syncdb
+: 1583892394:0;pip3 install -U django==1.10
+: 1583892465:0;python3 manage.py syncdb
+: 1583892475:0;pip3 install -U django
+: 1583892540:0;python3 manage.py syncdb
+: 1583892835:0;python3 manage.py runserver 0.0.0.0:8845
+: 1583927316:0;ls
+: 1583927321:0;pwd
+: 1583927326:0;ls -a
+: 1583927330:0;cd .ssh
+: 1583927331:0;ls
+: 1583927336:0;cat id_rsa
+: 1585460116:0;cd thesis
+: 1585460117:0;ls
+: 1585460126:0;texcount main.tex
+: 1585736704:0;pip3 list
+: 1586007449:0;ls
+: 1586007451:0;cd ..
+: 1586007452:0;ls
+: 1586007458:0;git clone git@github.com:TachibanaYoshino/AnimeGAN.git
+: 1587719955:0;curl -L https://get.daocloud.io/docker/compose/releases/download/1.22.0/docker-compose-`uname -s`-`uname -m` > ./docker-compose
+: 1587719969:0;chmod +x ./docker-compose
+: 1587720053:0;curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
+: 1587721248:0;sudo usermod -aG docker lxy
+: 1587721310:0;vim /etc/docker/daemon.json
+: 1587721619:0;which docker
+: 1587721633:0;ls ~/r
+: 1587721638:0;ls ~
+: 1587721641:0;ls ~ -a
+: 1587721661:0;ls /etc
+: 1587721748:0;vim /etc/hosts
+: 1587721776:0;sudo vim /etc/hosts
+: 1587721842:0;git clone -b 2.0 https://github.com/QingdaoU/OnlineJudgeDeploy.git && cd OnlineJudgeDeploy
+: 1587721858:0;./docker-compose up -d
+: 1587721867:0;docker-compose up -d
+: 1587721875:0;sh ./docker-compose up -d
+: 1587721880:0;ls
+: 1587721894:0;../docker-compose up -d
+: 1587722003:0;docker info
+: 1587722048:0;docker ps
+: 1587722082:0;sudo service docker start
+: 1587722087:0;docker ps
+: 1587722100:0;sudo docker ps
+: 1587722110:0;docker ps
+: 1587722117:0;docker info
+: 1587722193:0;reboot
+: 1587722199:0;sudo reboot
+: 1587722590:0;docker info
+: 1587722599:0;sudo service docker start
+: 1587722609:0;docker info
+: 1587722628:0;docker s
+: 1587722633:0;docker ps
+: 1587722642:0;which docker
+: 1587722650:0;docker ps
+: 1587722708:0;systemctl start docker
+: 1587722735:0;sudo dockerd
+: 1587722760:0;curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
+: 1587722828:0;sudo usermod -aG docker lxy
+: 1587722910:0;sudo apt-get update && sudo apt-get upgrade
+: 1587723059:0;sudo usermod -aG docker lxy
+: 1587723066:0;docker ps
+: 1587723127:0;sudo service docker stop
+: 1587723138:0;sudo service docker start
+: 1587723141:0;docker ps
+: 1587723145:0;sudo service docker stop
+: 1587723166:0;sudo nohup docker daemon -H tcp://0.0.0.0:2375 -H unix:///var/run/docker.sock
+: 1587723177:0;sudo service docker start
+: 1587723180:0;sudo nohup docker daemon -H tcp://0.0.0.0:2375 -H unix:///var/run/docker.sock
+: 1587723185:0;ps -aux
+: 1587723191:0;ps -a
+: 1587723202:0;docker
+: 1587723218:0;docker ps
+: 1587723236:0;service docker start
+: 1587723250:0;su
+: 1587723434:0;docker ps
+: 1587723445:0;export DOCKER_HOST="tcp://0.0.0.0:2375"
+: 1587723518:0;uname -r
+: 1587723555:0;ps -ax | grep docker
+: 1587723597:0;docker run hello-world
+: 1587723609:0;service docker start
+: 1587723616:0;sudo service docker start
+: 1587723619:0;docker run hello-world
+: 1587724839:0;curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
+: 1587724891:0;curl -fsSL https://get.docker.com | sudo bash -s docker --mirror Aliyun
+: 1587725114:0;export
+: 1587725161:0;docker version
+: 1587725178:0;dockerd-rootless.sh --experimental
+: 1587725193:0;sudo groupadd docker
+: 1587725200:0;sudo gpasswd -a $USER docker
+: 1587725213:0;newgrp docker
+: 1587725219:0;docker run hello-world
+: 1587725246:0;sudo chgrp -hR docker ~/.docker && sudo chown -R myuser ~/.docker
+: 1587725258:0;sudo usermod -aG docker $USER
+: 1587725310:0;groups
+: 1587725318:0;groups -h
+: 1587725322:0;groups --help
+: 1587725336:0;groups docker
+: 1587725367:0;groups lxy
+: 1587725379:0;groups docker
+: 1587725388:0;groups lxy:docker
+: 1587725475:0;id -u
+: 1587725488:0;whoami
+: 1587815623:0;rerc
+: 1587815627:0;rezrc
+: 1587815778:0;python -m SimpleHTTPServer
+: 1587817404:0;python3 run.py
+: 1587820361:0;python -m SimpleHTTPServer
+: 1587821122:0;python3 run.py
+: 1588425890:0;python -m SimpleHTTPServer
+: 1588583900:0;ls
+: 1588583906:0;mkdir pre
+: 1588583911:0;rm pre
+: 1588583914:0;rm pre -r
+: 1588583920:0;git clone git@gitlab.com:LinXueyuanStdio/md-src.git
+: 1588583939:0;ls ~/.ssh
+: 1588583946:0;ls ~/.ssh/id_rsa
+: 1588583952:0;cat ~/.ssh/id_rsa
+: 1588584002:0;cat ~/.ssh/id_rsa.pub
+: 1588584027:0;git clone git@gitlab.com:LinXueyuanStdio/md-src.git
+: 1588584034:0;ls
+: 1588584039:0;cd md-src
+: 1588584040:0;ls
+: 1588584188:0;scripts/local-build.sh
+: 1588584278:0;cd scripts-src
+: 1588584282:0;cnpm install
+: 1588584297:0;sudo apt install nodejs
+: 1588584310:0;node
+: 1588584318:0;cnpm install
+: 1588584366:0;which node
+: 1588584390:0;which cnpm
+: 1588584412:0;ls /usr/bin/env
+: 1588584415:0;ls /usr/bin
+: 1588584427:0;ls /usr/bin | grep no
+: 1588584456:0;nodejs
+: 1588584463:0;which nodejs
+: 1588584481:0;cnpm install
+: 1588584665:0;scripts-src/index.js demo.md --static demo
+: 1588584673:0;cnpm install
+: 1588584678:0;npm install
+: 1588584742:0;cd md-src
+: 1588584743:0;ls
+: 1588584755:0;git stauts
+: 1588584759:0;git status
+: 1588584764:0;git add demo.md
+: 1588584770:0;git commit -m "s"
+: 1588584774:0;git push origin master
+: 1588584941:0;ls
+: 1588584945:0;cd scripts-src
+: 1588585001:0;cnpm install
+: 1588585096:0;which nodejs
+: 1588585104:0;ln -s /usr/bin/nodejs /usr/bin/node
+: 1588585110:0;sudo ln -s /usr/bin/nodejs /usr/bin/node
+: 1588585113:0;cnpm install
+: 1588585141:0;rm /usr/bin/node
+: 1588585145:0;sudo rm /usr/bin/node
+: 1588585151:0;sudo cnpm install
+: 1588585156:0;cnpm install
+: 1588585187:0;cd ..
+: 1588585194:0;rm -rf scripts-src
+: 1588585202:0;scripts/local-build.sh
+: 1588585262:0;cd scripts-src
+: 1588585270:0;cnpm install
+: 1588585276:0;node
+: 1588585290:0;npm install
+: 1588586230:0;cnpm install
+: 1588586255:0;git config --get remote.origin.url
+: 1588586274:0;ls
+: 1588586290:0;npm install
+: 1588586302:0;cnpm install
+: 1588586306:0;cd ..
+: 1588586313:0;rm -rf scripts-src
+: 1588586326:0;git clone https://gitlab.com/pre-group/scripts-src/
+: 1588586334:0;cd scripts-src
+: 1588586347:0;cnpm install
+: 1588586387:0;sudo cnpm install
+: 1588586396:0;sudo ln -s /usr/bin/nodejs /usr/bin/node
+: 1588586399:0;cnpm install
+: 1588586425:0;which nodejs
+: 1588586431:0;which node
+: 1588586437:0;which npm
+: 1588586440:0;which cnpm
+: 1588586457:0;ls /usr/local/bin | grep nod
+: 1588586462:0;ls /usr/local/bin | grep c
+: 1588586466:0;ls /usr/local/bin
+: 1588586488:0;nodejs
+: 1588586501:0;nodejs --version
+: 1588586510:0;sudo apt install nodejs
+: 1588586521:0;sudo apt install node
+: 1588586601:0;cat /etc/apt/sources.list
+: 1588586611:0;sudo vim /etc/apt/sources.list
+: 1588586640:0;sudo apt update
+: 1588586683:0;sudo apt list --upgradable
+: 1588586701:0;sudo apt install nodejs
+: 1588586784:0;sudo apt-get install nodejs
+: 1588586787:0;sudo apt-get install nodejs -f
+: 1588586795:0;sudo apt-get -f install nodejs
+: 1588586813:0;sudo apt-get -f install
+: 1588586891:0;sudo apt --fix-broken install
+: 1588586949:0;sudo apt list --upgradable
+: 1588586957:0;sudo apt update
+: 1588586979:0;sudo apt --hep
+: 1588586982:0;sudo apt --help
+: 1588587005:0;sudo apt upgrade
+: 1588587013:0;sudo apt-f upgrade
+: 1588587019:0;sudo apt upgrade -f
+: 1588587123:0;sudo vim /etc/apt/sources.list
+: 1588587243:0;sudo apt update
+: 1588587256:0;sudo apt upgrade -f
+: 1588587303:0;sudo apt upgrade -f libc6
+: 1588587316:0;sudo apt update
+: 1588587334:0;sudo apt list --upgradable
+: 1588587341:0;sudo apt update
+: 1588587353:0;sudo apt upgrade
+: 1588587435:0;sudo apt-get clean
+: 1588587438:0;sudo apt upgrade
+: 1588587464:0;sudo apt-get install libc6
+: 1588587469:0;sudo apt-get install -f libc6
+: 1588587475:0;sudo apt-get install -f
+: 1588587534:0;LANG = "C.UTF-8"
+: 1588587538:0;export
+: 1588587572:0;sudo apt-get install -f
+: 1588587607:0;export PATH=$PATH:/usr/local/sbin:/usr/sbin:/sbin
+: 1588587609:0;sudo apt-get install -f
+: 1588587615:0;export
+: 1588587671:0;sudo apt-get install nodejs
+: 1588587748:0;locale-gen en_US.UTF-8
+: 1588587754:0;export LANGUAGE=en_US.UTF-8
+: 1588587755:0;export LANG=en_US.UTF-8
+: 1588587756:0;export LC_ALL=en_US.UTF-8
+: 1588587760:0;sudo apt-get install nodejs
+: 1588587831:0;apt-get download libc-bin
+: 1588587836:0;ls
+: 1588587848:0;dpkg -x libc-bin*.deb unpackdir/
+: 1588587855:0;sudo cp unpackdir/sbin/ldconfig /sbin/
+: 1588587859:0;apt-get download libc-bin
+: 1588587863:0;sudo apt-get install nodejs
+: 1588587888:0;sudo apt-get install libc6
+: 1588587910:0;sudo apt-get update && sudo apt-get upgrade
+: 1588588194:0;sudo apt-get install --reinstall lib-bi
+: 1588588197:0;sudo apt-get install --reinstall lib-bin
+: 1588588204:0;sudo apt-get install --reinstall libc-bin
+: 1588588619:0;lscpu
+: 1588588667:0;apt policy libc6
+: 1588607287:0;cd   ..
+: 1588607296:0;git push origin master
+: 1588762455:0;curl -fsSL https://deno.land/x/install/install.sh | sh
+: 1588777443:0;vim  $HOME/.bash_profile
+: 1588777465:0;ls ~/.bash
+: 1588777469:0;ls ~/.bash*
+: 1588777487:0;vim  $HOME/.bash_profile
+: 1588777519:0;source $HOME/.bash_profile
+: 1588777525:0;deno --help
+: 1588777548:0;deno eval "console.log(2+3)"
+: 1589022851:0;python3 a.py
+: 1589425008:0;deno run https://deno.land/std/examples/welcome.ts
+: 1589425062:0;curl -fsSL https://deno.land/x/install/install.sh | sh
+: 1589425986:0;export DENO_INSTALL="/home/lxy/.deno"
+: 1589425991:0;export PATH="$DENO_INSTALL/bin:$PATH"
+: 1589426010:0;vim ~/.bashrc
+: 1589426058:0;vsource ~/.bashrc
+: 1589426063:0;source ~/.bashrc
+: 1589426095:0;deno
+: 1589426100:0;export PATH="$DENO_INSTALL/bin:$PATH"
+: 1589426107:0;export DENO_INSTALL="/home/lxy/.deno"
+: 1589426110:0;deno
+: 1589426116:0;export PATH="$DENO_INSTALL/bin:$PATH"
+: 1589426119:0;deno
+: 1589426151:0;deno run https://deno.land/std/examples/welcome.ts
+: 1589426180:0;ls
+: 1589426202:0;touch a.ts
+: 1589426209:0;vim a.ts
+: 1589426230:0;deno run a.ts
+: 1589426258:0;deno run a.ts --allow-net
+: 1589426274:0;deno run --allow-net a.ts
+: 1590074599:0;pip3 install selenium
+: 1590074658:0;python3 run_me.py
+: 1591875226:0;cnpm install --global vue-cli
+: 1591875270:0;npm -v
+: 1591875276:0;cnpm -v
+: 1591875309:0;cnpm install vue
+: 1591875339:0;sudo apt install nodejs
+: 1591875657:0;ls /root
+: 1591875659:0;ls
+: 1591875669:0;ls ~ -a
+: 1591875693:0;vim ~/.zshrc
+: 1591875714:0;vim ~/.bashrc
+: 1591875731:0;source ~/.bashrc
+: 1591875735:0;zsh
+: 1591875740:0;export
+: 1591875745:0;sudo apt install nodejs
+: 1591875787:0;sudo apt-get download libc-bin
+: 1591875802:0;dpkg -x libc-bin*.deb unpackdir/
+: 1591875810:0;sudo cp unpackdir/sbin/ldconfig /sbin/
+: 1591875818:0;sudo apt-get install --reinstall libc-bin
+: 1591875867:0;sudo apt-get -f install
+: 1591876041:0;ls
+: 1591876163:0;cat /etc/apt/sources.list
+: 1591877599:0;vim /etc/apt/sources.list
+: 1591877713:0;kill 2495
+: 1591877723:0;sudo vim /etc/apt/sources.list
+: 1591877794:0;sudo apt-get install --reinstall libc-bin
+: 1591877841:0;sudo apt-get update
+: 1591878396:0;sudo apt-get install --reinstall libc-bin
+: 1591878453:0;sudo apt-get purge libc-bin
+: 1591878541:0;cnpm install vue
+: 1591878567:0;sudo apt install --upgrade nodejs
+: 1591879314:0;apt-get download libc-bin
+: 1591879317:0;ls
+: 1591879428:0;sudo apt -h
+: 1591879440:0;apt show libc6
+: 1591879476:0;apt show libc-bin
+: 1591879503:0;apt-get download libc6
+: 1591879527:0;sudo apt-get purge libc-bin
+: 1591879563:0;apt show libc-bin
+: 1591879615:0;apt-get download libc6
+: 1591879765:0;sudo apt install apt-utils
+: 1591879789:0;vim /etc/apt/sources.list
+: 1591879796:0;sudo vim /etc/apt/sources.list
+: 1591879813:0;sudo apt update
+: 1591879959:0;apt list --upgradable
+: 1591879968:0;sudo apt install apt-utils
+: 1591880769:0;sudo lsb_release -a
+: 1591880897:0;apt -v
+: 1591880981:0;dpkg -i apt_1.6.1_amd64.deb
+: 1591880996:0;sudo dpkg -i apt_1.6.1_amd64.deb
+: 1591881030:0;su
+: 1591881079:0;sudo dpkg -i apt_1.6.1_amd64.deb
+: 1591881273:0;sudo apt-get purge apt-transport-https
+: 1591881291:0;sudo dpkg -i apt_1.6.1_amd64.deb
+: 1591881295:0;sudo dpkg -i apt_1.6.1_amd64.deb  -f
+: 1591881301:0;sudo dpkg -i apt_1.6.1_amd64.deb
+: 1591881319:0;sudo dpkg -i apt_1.6.1_amd64.deb --auto-deconfigure
+: 1591881326:0;sudo dpkg -i --auto-deconfigure apt_1.6.1_amd64.deb
+: 1591881427:0;sudo dpkg -i -f --auto-deconfigure apt_1.6.1_amd64.deb
+: 1591881517:0;sudo apt --fix-broken install
+: 1591881544:0;sudo apt autoremove
+: 1591881745:0;sudo dpkg -i apt-transport-https_1.6.1_all.deb
+: 1591881768:0;sudo dpkg -i apt_1.6.1_amd64.deb apt-transport-https_1.6.1_all.deb
+: 1591881849:0;sudo dpkg -i apt_1.6.1_amd64.deb apt-transport-https_1.6.1_all.deb libc-bin_2.27-3ubuntu1_amd64.deb
+: 1591881920:0;sudo dpkg--auto-deconfigure  -i apt_1.6.1_amd64.deb apt-transport-https_1.6.1_all.deb libc-bin_2.27-3ubuntu1_amd64.deb
+: 1591881944:0;sudo  ure --auto-deconfigure  -i apt_1.6.1_amd64.deb apt-transport-https_1.6.1_all.deb libc-bin_2.27-3ubuntu1_amd64.deb
+: 1591881975:0;sudo dpkg -i --auto-deconfigure apt_1.6.1_amd64.deb apt-transport-https_1.6.1_all.deb libc-bin_2.27-3ubuntu1_amd64.deb
+: 1591882013:0;apt show lic6
+: 1591882017:0;apt show libc6
+: 1591882076:0;sudo dpkg -i --auto-deconfigure libc-bin_2.27-3ubuntu1_amd64.deb apt_1.6.1_amd64.deb apt-transport-https_1.6.1_all.deb
+: 1591882483:0;wget http://security.ubuntu.com/ubuntu/pool/main/g/glibc/libc6_2.27-3ubuntu1_amd64.deb
+: 1591883118:0;sudo dpkg -i --auto-deconfigure libc6_2.27-3ubuntu1_amd64.deb libc-bin_2.27-3ubuntu1_amd64.deb apt_1.6.1_amd64.deb apt-transport-https_1.6.1_all.deb
+: 1591883233:0;sudo dpkg -i libc6_2.27-3ubuntu1_amd64.deb
+: 1591883318:0;sudo dpkg -i --auto-deconfigure libc6_2.27-3ubuntu1_amd64.deb
+: 1591883372:0;apt remove
+: 1591883390:0;sudo apt remove libcrypt1
+: 1591884466:0;sudo apt remove aptitude
+: 1591884489:0;sudo apt remove aptitude -f
+: 1591884496:0;sudo apt remove -f aptitude
+: 1591884525:0;sudo apt remove libcrypt1
+: 1591884532:0;sudo apt purge libcrypt1
+: 1591884567:0;sudo apt -h
+: 1591884592:0;apt -v
